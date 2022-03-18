@@ -1,0 +1,5 @@
+Este es un archivo de texto plano para prueba.
+
+Se iran haciendo cambios en el mismo.
+
+Este es el primer cambio. Este es el segundo cambio.

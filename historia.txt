@@ -4,5 +4,6 @@ Se iran haciendo cambios en el mismo.
 
 Este es el primer cambio. Este es el segundo cambio.
 
+Master 1
 
 Ahora Computadora 2 solo aporta a Hyperblog
